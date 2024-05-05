@@ -1,14 +1,23 @@
 <h1 align="center">Hi 👋, I'm Abhi Nivesh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate learner, constantly acquiring new skills and upgrading myself.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinivesh3&label=Profile%20views&color=0e75b6&style=flat" alt="abhinivesh3" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinivesh3" alt="abhinivesh3" /></a> </p>
+- 🌱 I’m currently **I'm a student pursuing Computer Science and Engineering**
+
+- 👯 I’m looking to collaborate on **java projects**
+
+- 💬 Ask me about **Java,C**
+
+- 📫 How to reach me **abhinivesh382002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhi-nivesh-r-aa2b55243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhi-nivesh-r-aa2b55243" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/abhinivesh382002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhinivesh382002" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhi_nivesh_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhi_nivesh_r" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/abhiniveshr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhiniveshr" height="30" width="40" /></a>
+<a href="https://discord.gg/abhi02129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abhi02129" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

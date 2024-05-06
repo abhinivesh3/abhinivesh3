@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently **I'm a student pursuing Computer Science and Engineering**
 
-- 👯 I’m looking to collaborate on **java projects**
+- 👯 I’m looking to collaborate on **Java ,Spring and Backend Projects**
 
 - 💬 Ask me about **Java,C**
 

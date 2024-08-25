@@ -55,9 +55,8 @@
      <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
     </a>
-    <!-- TestNG icon -->
-    <a href="https://testng.org/doc/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/irfaardy/images/main/testng.png" alt="testng" width="40" height="40"/>
+   <a href="https://testng.org/doc/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/testng/testng-original.svg" alt="testng" width="40" height="40"/>
     </a>
 </p>
 

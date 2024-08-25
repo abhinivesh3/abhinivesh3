@@ -55,8 +55,8 @@
      <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
     </a>
-   <a href="https://testng.org/doc/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/testng/testng-original.svg" alt="testng" width="40" height="40"/>
+    <a href="https://testng.org/doc/" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/ios/50/000000/test-tube.png" alt="testng" width="40" height="40"/>
     </a>
 </p>
 
